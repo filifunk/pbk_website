@@ -43,14 +43,14 @@ def post_emails(id):
     return email_schema.jsonify(results)
 
 
-@app.route('/', methods = ['POST'])
-def add_email():
-    email = request.json['email']
+#@app.route('/', methods = ['POST'])
+#def add_email():
+    #email = request.json['email']
 
-    entry = Emails(email)
-    db.session.add(entry)
-    db.session.commit()
-    return email_schema.jsonify(entry)
+    #entry = Emails(email)
+    #db.session.add(entry)
+    #db.session.commit()
+    #return email_schema.jsonify(entry)
 
 @app.route('/add', methods = ['POST'])
 def add_email2():
