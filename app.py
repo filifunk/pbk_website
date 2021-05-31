@@ -9,7 +9,7 @@ CORS(app)
 
 #app.config['SQLALCHEMY_DATABASE_URI']='mysql://root:root@localhost/pobblebonk'
 
-app.config['SQLALCHEMY_DATABASE_URI']='mysql://b329e680cfc484:a310abca@us-cdbr-east-04.cleardb.com/heroku_8caeb1ebf4606b6?reconnect=true'
+app.config['SQLALCHEMY_DATABASE_URI']='mysql://b329e680cfc484:a310abca@us-cdbr-east-04.cleardb.com/heroku_8caeb1ebf4606b6'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS']= False
 
 db = SQLAlchemy(app)
