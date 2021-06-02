@@ -1,9 +1,9 @@
 import React, {useState, useEffect} from 'react'
 import APIService from '../components/APIService'
 
-function Form(props) {
+function Form() {
   
-  const[email, setEmail] = useState([])
+  const[email, setEmail] = useState('')
 
   useEffect(() => {
     setEmail()
@@ -11,6 +11,7 @@ function Form(props) {
   
   const submitEmail = () => {
     APIService.SubmitEmail({email})
+    .then(setEmail(''))
     .then(resp=> console.log(resp))
     .then(resp=> console.log("hi"))
     .then(resp=> console.log({email}))
@@ -22,7 +23,8 @@ function Form(props) {
       <div className = "mb-3">
       <label htmlFor = "email" className = "form-label"></label>
       <input type="text" className="form-control"
-      value = {email|| ''}
+      //value = {email|| ''}
+      value = {email}
       placeholder = "Please enter e-mail"
       onChange = {(e) => setEmail(e.target.value)}
       />
