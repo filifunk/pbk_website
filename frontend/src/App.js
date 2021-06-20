@@ -2,7 +2,7 @@ import logo from './pbk_053121_WhiteBg.svg';
 //import {useState} from 'react';
 import './App.css';
 import Form from './components/Form';
-
+import SocialFollow from './components/SocialFollow'
 
 function App() {
 
@@ -29,6 +29,7 @@ function App() {
 	<Form/>
 
       </header>
+	  <SocialFollow />
     </div>
   );
 }
