@@ -13,7 +13,7 @@ export default function SocialFollow() {
 	  className="facebook social">
 	  <FontAwesomeIcon icon={faFacebook} size="2x" />
 	</a>
-	<a href = "http://www.instagram.com/learnbuildteach"
+	<a href = "http://www.instagram.com/pobblebonklive"
 	  className="instagram social">
 	  <FontAwesomeIcon icon={faInstagram} size="2x" />
 	</a>
