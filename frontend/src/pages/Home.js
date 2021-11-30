@@ -14,6 +14,7 @@ return(
 	<h1>Coming Soon...</h1>
 	<h3>submit email for updates</h3>
 	<Form/>
+	<h3>blog</h3>
 	<SocialFollow />
 
       </header>
