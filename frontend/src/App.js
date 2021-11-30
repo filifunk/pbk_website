@@ -28,12 +28,7 @@ function App() {
 	    <Route exact path="/">
 	      <Home />
 	    </Route>
-	    <Route path="/igersmiami">
-	      <IgersMiami />
-	    </Route>
-	    <Route path="/blog">
-		<Blog />
-	    </Route>
+	    <Route path="/blog" component={Blog} />
 	  </Switch>
 	</Router>
 	</div>
