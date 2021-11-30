@@ -24,11 +24,9 @@ function App() {
 
   return (
     <div>
+	<h1>Hi</h1>
 	<Router>
 	  <Switch>
-	    <Route exact path="/">
-	      <Home />
-	    </Route>
 	    <Route exact path="/blog" component={Blog} />
 	  </Switch>
 	</Router>
