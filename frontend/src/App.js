@@ -1,8 +1,9 @@
-import logo from './pbk_053121_WhiteBg.svg';
 //import {useState} from 'react';
 import './App.css';
-import Form from './components/Form';
-import SocialFollow from './components/SocialFollow'
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
+import Home from './pages/Home'
+import IgersMiami from './pages/Igersmiami'
+import Blog from './pages/Blog'
 
 function App() {
 
@@ -21,16 +22,21 @@ function App() {
 
 
   return (
-  <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-	<h1>Coming Soon...</h1>
-	<h3>submit email for updates</h3>
-	<Form/>
-
-      </header>
-	  <SocialFollow />
-    </div>
+    <div className="App">
+	<Router>
+	  <Switch>
+	    <Route exact path="/">
+	      <Home />
+	    </Route>
+	    <Route path="/igersmiami">
+	      <IgersMiami />
+	    </Route>
+	    <Route path="/blog">
+		<Blog />
+	    </Route>
+	  </Switch>
+	</Router>
+	</div>
   );
 }
 

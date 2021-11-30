@@ -4,20 +4,27 @@ import APIService from '../components/APIService'
 function Form() {
   
   const[email, setEmail] = useState('')
+  
 
   useEffect(() => {
     setEmail()
+
   },[])
   
-  const submitEmail = () => {
+  const SubmitEmail = () => {
     APIService.SubmitEmail({email})
     .then(setEmail(''))
     .then(resp=> console.log(resp))
-    .then(resp=> console.log("hi"))
+    .then(resp=> console.log("hi wtf"))
     .then(resp=> console.log({email}))
     //.catch(error => console.log(error))
-
+  
   }
+    
+
+
+
+  
   return (
     <div>
       <div className = "mb-3">
@@ -30,14 +37,15 @@ function Form() {
       />
 
       <button
-      onClick = {submitEmail}
+      onClick = {SubmitEmail}
       className = "btn btn-success mt-3"
       >Submit</button>
       </div>
+
+
     </div>
 
-    )
-
+    );
 }
 
 export default Form
