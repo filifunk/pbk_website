@@ -22,16 +22,16 @@ function App() {
 
 
   return (
-    <div className="App">
+    <div>
 	<Router>
 	  <Switch>
 	    <Route exact path="/">
 	      <Home />
 	    </Route>
-	    <Route path="/blog" component={Blog} />
+	    <Route exact path="/blog" component={Blog} />
 	  </Switch>
 	</Router>
-	</div>
+    </div>
   );
 }
 
