@@ -18,12 +18,12 @@ return(
 	<h3>Hi all!</h3>
 	<ul>
 	    <li>
-		    <Link to="/blog">blog</Link>
+		    <Link to="/blog">bloggy</Link>
 	    </li>
 	</ul>
 	<SocialFollow />
 
-    <h1>Privacy Policy of 1759 Media, LLC</h1>
+    <h3>Privacy Policy of 1759 Media, LLC</h3>
 
 <p>1759 Media, LLC operates the pobblebonklive.com website, which provides the SERVICE.</p>
 
