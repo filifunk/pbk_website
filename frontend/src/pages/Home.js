@@ -23,9 +23,7 @@ return(
 	</ul>
 	<SocialFollow />
 
-      </header>
-
-<h1>Privacy Policy of 1759 Media, LLC</h1>
+    <h1>Privacy Policy of 1759 Media, LLC</h1>
 
 <p>1759 Media, LLC operates the pobblebonklive.com website, which provides the SERVICE.</p>
 
@@ -83,6 +81,10 @@ return(
 <h2>Contact Us</h2>
 
 <p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.</p>
+
+      </header>
+
+
 </div>
 
   );
