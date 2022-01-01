@@ -28,6 +28,9 @@ class EmailsSchema(ma.Schema):
     class Meta:
         fields = ('id','email')
 
+email_schema = EmailsSchema()
+emails_schema = EmailsSchema(many=True)
+
 class IGHandles(db.Model):
     __tablename__ = 'IGHandles'
     id = db.Column(db.Integer, primary_key = True)
@@ -42,11 +45,24 @@ class IGHandlesSchema(ma.Schema):
 
 
 
-email_schema = EmailsSchema()
-emails_schema = EmailsSchema(many=True)
-
 ighandle_schema = IGHandlesSchema()
 ighandles_schema = IGHandlesSchema(many=True)
+
+
+class Posts(db.Model):
+    id = db.Column(db.Integer, primary_key = True)
+    title = db.Column(db.String(100))
+    body = db.Column(db.Text())
+    date = db.Column(db.DateTime, default = datetime.datetime.now)
+
+class PostsSchema(ma.Schema):
+    class Meta:
+        fields = ('id', 'title', 'body', 'date')
+
+post_schema = PostsSchema()
+posts_schema = PostsSchema(many=True)
+
+
 
 @app.route("/", defaults={'path':''})
 def serve(path):

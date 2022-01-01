@@ -6,6 +6,9 @@ import Home from './pages/Home'
 import IgersMiami from './pages/Igersmiami'
 import Blog from './pages/Blog'
 import Privacy from './pages/Privacy'
+import Nav from './components/Nav'
+import Contact from './pages/Contact'
+import About from './pages/About'
 
 function App() {
 
@@ -30,6 +33,8 @@ function App() {
 	    <Route exact path="/blog" component={Blog} />
 	    <Route exact path = "/" component={Home} />
 	    <Route exact path = "/Privacy" component={Privacy} />
+	    <Route exact path = "/Contact" component={Contact} />
+	    <Route exact path = "/About" component={About} />
 	  </Switch>
 	</Router>
     </div>

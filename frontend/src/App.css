@@ -1,5 +1,9 @@
+* {background-color: #ff6961}
+
 .App {
   text-align: center;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
 }
 
 .App-logo {
@@ -14,16 +18,114 @@
   }
 }
 
-.App-header {
+
+.App-body {
+  display: grid;
   background-color: #ff6961;
-  min-height: 90vh;
-  display: flex;
-  flex-direction: column;
   align-items: center;
-  justify-content: center;
+  justify-content: start;
   font-size: calc(10px + 2vmin);
   color: black;
   font-family: Palatino;
+  grid-column-start:2;
+  margin: 0
+}
+
+.App-body h1 {
+  margin: 0
+}
+
+.App-contact {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  background-color: #ff6961;
+  align-items: center;
+  justify-content: start;
+  color: black;
+  font-family: Palatino;
+  grid-column-start:1
+}
+
+.App-contact h1 {
+  margin: 0
+}
+
+
+.App-contact-body {
+  display: grid;
+  background-color: #ff6961;
+  align-items: center;
+  justify-content: start;
+  font-size: calc(10px + 2vmin);
+  color: black;
+  font-family: Palatino;
+  grid-column-start:2;
+  margin: 0;
+  text-align: center
+}
+
+
+.App-about {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  background-color: #ff6961;
+  align-items: center;
+  justify-content: start;
+  color: black;
+  font-family: Palatino;
+  grid-column-start:2;
+  grid-column-end:4
+}
+
+.App-about h1 {
+  margin: 0
+}
+
+.App-about h2 {
+  margin:
+
+}
+
+
+.App-about-body {
+  display: grid;
+  background-color: #ff6961;
+  align-items: center;
+  justify-content: start;
+  font-size: calc(10px + 2vmin);
+  color: black;
+  font-family: Palatino;
+  grid-column-start:2;
+  grid-column-end:4;
+  margin: 0;
+  text-align: center
+}
+
+
+
+.App-nav {
+  background-color: #ff6961;
+  align-items: flex-end;
+  justify-content: start;
+  color: black;
+  font-family: Palatino;
+  grid-column-start:3;
+  margin:0
+
+}
+
+
+
+
+.App-header {
+  background-color: #ff6961;
+  flex-direction: column;
+  align-items: right;
+  justify-content: column;
+  font-size: calc(10px + 2vmin);
+  color: black;
+  font-family: Palatino;
+  
 }
 
 .App-link {
