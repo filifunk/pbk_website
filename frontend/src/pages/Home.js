@@ -15,7 +15,7 @@ return(
       <body className="App-body">
 	<img src={logo} className="App-logo" alt="logo" />
 	<h1>Coming Soon...</h1>
-	<h3>submit email for updates</h3>
+	<h3>submit email for updates or not</h3>
 	<Form/>
 	<SocialFollow />
 	
