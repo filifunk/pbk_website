@@ -18,7 +18,7 @@ export default function Nav(){
 
 			    <ul>
 				    <li><a href="/About">About</a></li>
-				    <li><a href="/Blog#!">Blog</a></li>
+				    <li><a href="/blog#!">Blog</a></li>
 				    <li><a href="/Contact">Contact us</a></li>
 
 			    </ul>

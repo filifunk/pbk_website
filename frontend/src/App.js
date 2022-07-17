@@ -9,25 +9,13 @@ import About from './pages/About'
 
 function App() {
 
-  /*
-  const [results, setResults] = useState([])
-
-
-  const submittedResults = (result) => {
-    const new_results = [...results, result]
-    setResults(new_results)
-
-  }
-
-*/
-
 
 
   return (
     <div>
 	<Router>
 	  <Switch>
-	    <Route exact path="/blog#!" component={Blog} />
+	    <Route exact path="/blog" component={Blog} />
 	    <Route exact path = "/" component={Home} />
 	    <Route exact path = "/Contact" component={Contact} />
 	    <Route exact path = "/About" component={About} />
