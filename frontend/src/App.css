@@ -6,6 +6,12 @@
   grid-template-columns: 1fr 1fr 1fr;
 }
 
+.App-privacy {
+    text-align: center;
+    background-color: #ff6961;
+
+}
+
 .App-logo {
   height: 50vmin;
   pointer-events: none;
@@ -29,6 +35,11 @@
   font-family: Palatino;
   grid-column-start:2;
   margin: 0
+}
+
+.App-privacy-body {
+   background-color: #ff6961; 
+
 }
 
 .App-body h1 {
@@ -166,3 +177,9 @@ a.instagram {
   color:#8a3ab9;
 }
 
+
+.pobbleblog {
+    font-family: Tahoma, sans-serif;
+    margin: 25px 50px 75px 100px;
+
+}

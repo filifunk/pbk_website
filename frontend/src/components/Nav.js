@@ -40,9 +40,9 @@ export default function Nav(){
 			</div> 
 
 			    <ul>
-				    <li><a href="/About" onclick='about()'>About</a></li>
-				    <li><a href="/Blog" onclick='blog()'>Blog</a></li>
-				    <li><a href="/Contact" onclick='contact()'>Contact us</a></li>
+				    <li><button onclick={about()}>About</button></li>
+				    <li><button onclick={blog()}>Blog</button></li>
+				    {/*<li><a href="/Contact" onclick='contact()'>Contact us</a></li>*/}
 
 			    </ul>
 

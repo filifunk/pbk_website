@@ -9,6 +9,8 @@ import Home from './pages/Home'
 import Blog from './pages/Blog'
 import Contact from './pages/Contact'
 import About from './pages/About'
+import Privacy from './pages/Privacy'
+import Bonuses from './pages/Bonuses'
 
 ReactDOM.render(
   <BrowserRouter>
@@ -18,6 +20,8 @@ ReactDOM.render(
 	<Route exact path = "/" element={<Home/>} />
 	<Route exact path = "/Contact" element={<Contact/>} />
 	<Route exact path = "/About" element={<About/>} />
+	<Route path="/Privacy" element={<Privacy/>} />
+	<Route path="/Bonuses" element={<Bonuses/>} />
     </Routes>
   </BrowserRouter>,
   document.getElementById('root')

@@ -1,32 +1,19 @@
-import logo from '../pbk_053121_WhiteBg.svg';
-import Form from '../components/Form';
-import SocialFollow from '../components/SocialFollow';
-import Nav from '../components/Nav';
 import '../App.css';
 import { Link } from 'react-router-dom';
 import { useNavigate } from 'react-router';
 
 
-function Home() {
 
-    let navigate = useNavigate();
+function Privacy() {
 
-    function experiment() {
-	navigate('/Blog')
+    console.log('in privacy file')
 
-    }
+    return(
 
-return(
 
-  <div className="App">
-	  
-      <body className="App-body">
-	<img src={logo} className="App-logo" alt="logo" />
-	<button onClick={experiment}>Blog</button>
-	<SocialFollow />
-	
-
-	      <h3> Pobblebonk App Privacy Policy </h3>
+	    <div className="App-privacy">
+		    <body classname="App-privacy-body">
+ <h3> Pobblebonk App Privacy Policy </h3>
 	      <h6>
 
 Last modified: 7/13/22
@@ -302,14 +289,14 @@ All feedback, comments, requests for technical support, and other communications
 
 
 	      </h6>
+		</body>
+
+	    </div>
+
+    );
 
 
-      </body>
-
-
-</div>
-
-  );
 }
 
-export default Home;
+
+export default Privacy;
