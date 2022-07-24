@@ -1,7 +1,7 @@
 //import {useState} from 'react';
 import React from 'react';
 import './App.css';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Home from './pages/Home'
 import Blog from './pages/Blog'
 import Contact from './pages/Contact'
@@ -13,14 +13,12 @@ function App() {
 
   return (
     <div>
-	<Router>
-	  <Switch>
-	    <Route exact path="/blog" component={Blog} />
-	    <Route exact path = "/" component={Home} />
-	    <Route exact path = "/Contact" component={Contact} />
-	    <Route exact path = "/About" component={About} />
-	  </Switch>
-	</Router>
+	  <Routes>
+		  <Route path="/blog" element={<Blog/>} />
+		  <Route exact path = "/" element={<Home/>} />
+		  <Route exact path = "/Contact" element={<Contact/>} />
+		  <Route exact path = "/About" element={<About/>} />
+	  </Routes>
     </div>
   );
 }

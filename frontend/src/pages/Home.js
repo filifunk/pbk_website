@@ -4,9 +4,17 @@ import SocialFollow from '../components/SocialFollow';
 import Nav from '../components/Nav';
 import '../App.css';
 import { Link } from 'react-router-dom';
+import { useNavigate } from 'react-router';
 
 
 function Home() {
+
+    let navigate = useNavigate();
+
+    function experiment() {
+	navigate('/About')
+
+    }
 
 return(
 
@@ -15,6 +23,7 @@ return(
       <body className="App-body">
 	<img src={logo} className="App-logo" alt="logo" />
 	<h1>Coming Soon...</h1>
+	<button onClick={experiment}>try this out</button>
 	<SocialFollow />
 	
 
