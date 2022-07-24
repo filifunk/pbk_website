@@ -1,5 +1,6 @@
 import Hamburger from "./Hamburger";
 import { useState } from 'react';
+import { useNavigate } from 'react-router';
 
 export default function Nav(){
 
@@ -10,6 +11,28 @@ export default function Nav(){
     }
     console.log(hamburgerOpen)
 
+
+    let navigate = useNavigate();
+
+    function about() {
+	navigate('/About')
+
+    }
+
+    function blog() {
+	navigate('/Blog')
+
+    }
+
+    function contact() {
+	navigate('/Contact')
+
+    }
+
+
+
+
+
     return(
 	    <div className="navigation">
 		    	<div className="hamburger" onClick={toggleHamburger}>
@@ -17,9 +40,9 @@ export default function Nav(){
 			</div> 
 
 			    <ul>
-				    <li><a href="/About">About</a></li>
-				    <li><a href="/blog#!">Blog</a></li>
-				    <li><a href="/Contact">Contact us</a></li>
+				    <li><a href="/About" onclick='about()'>About</a></li>
+				    <li><a href="/Blog" onclick='blog()'>Blog</a></li>
+				    <li><a href="/Contact" onclick='contact()'>Contact us</a></li>
 
 			    </ul>
 
