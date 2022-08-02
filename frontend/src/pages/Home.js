@@ -12,7 +12,7 @@ function Home() {
     let navigate = useNavigate();
 
     function experiment() {
-	navigate('/Blog')
+	navigate('/Legal')
 
     }
 
