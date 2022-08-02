@@ -20,7 +20,7 @@ ReactDOM.render(
 	<Route exact path = "/" element={<Home/>} />
 	<Route exact path = "/Contact" element={<Contact/>} />
 	<Route exact path = "/About" element={<About/>} />
-	<Route path="/Privacy" element={<Privacy/>} />
+	<Route path="/Legal" element={<Privacy/>} />
 	<Route path="/Bonuses" element={<Bonuses/>} />
     </Routes>
   </BrowserRouter>,
