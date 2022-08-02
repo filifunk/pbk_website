@@ -34,7 +34,7 @@ return(
 			<b>Currently Working on:</b>
 			<ul>
 				<li>Points system needs to be worked on.  It has to benefit people who go to a variety of mics.</li>
-				<li>Getting it passable for iOS App Store, which I believe is more likely to deny the app.</li>
+				<li>Getting it passable for iOS App Store, which we believe is more likely to deny the app.</li>
 			</ul>
 
 			<br />
