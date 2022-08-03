@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router';
 
 
 
-function Privacy() {
+function Legal() {
 
     console.log('in privacy file')
 
@@ -299,4 +299,4 @@ All feedback, comments, requests for technical support, and other communications
 }
 
 
-export default Privacy;
+export default Legal;
