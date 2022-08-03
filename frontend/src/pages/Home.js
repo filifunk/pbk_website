@@ -22,7 +22,7 @@ return(
 	  
       <body className="App-body">
 	<img src={logo} className="App-logo" alt="logo" />
-	<button onClick={experiment}>Blog</button>
+	      {/*<button onClick={experiment}>Blog</button>*/}
 	<SocialFollow />
 	
 

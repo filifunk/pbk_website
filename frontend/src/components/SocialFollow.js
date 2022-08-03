@@ -8,7 +8,6 @@ import {
 export default function SocialFollow() {
   return (
     <div className="social-container">
-	<h3>Social Follow</h3>
 	<a href="http://www.facebook.com/pobblebonklive/"
 	  className="facebook social">
 	  <FontAwesomeIcon icon={faFacebook} size="2x" />
