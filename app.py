@@ -70,7 +70,7 @@ def serve(path):
 
 @app.errorhandler(404)
 def not_found(err):
-    return app.set_static_file(app.static_folder, 'index.html')
+    return send_from_directory(app.static_folder, 'index.html')
 
 
 @app.route('/get', methods = ['GET'])
