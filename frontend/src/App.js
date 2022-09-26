@@ -7,6 +7,8 @@ import Blog from './pages/Blog'
 import Contact from './pages/Contact'
 import About from './pages/About'
 import Legal from './pages/Legal'
+import Tos from './pages/Tos'
+import Pp from './pages/Pp'
 
 function App() {
 
@@ -20,6 +22,8 @@ function App() {
 		  <Route exact path = "/Contact" element={<Contact/>} />
 		  <Route exact path = "/About" element={<About/>} />
 		  <Route exact path = "/Legal" element={<Legal/>} />
+		  <Route exact path = "/Tos" element={<Tos/>} />
+		  <Route exact path = "/Pp" element={<Pp/>} />
 		  
 	</Routes>
     </div>
