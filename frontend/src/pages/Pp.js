@@ -4,6 +4,8 @@ import React from 'react';
 
 function Pp() {
 
+  console.log('she-hulk')
+
   return(
 	  <div className="App-privacy">
 
