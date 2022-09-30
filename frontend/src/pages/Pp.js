@@ -118,7 +118,7 @@ You may exercise your rights of access, rectification, cancellation and oppositi
 Accessing and Correcting Your Personal Information<br/><br/>
 You can review and change your personal information by logging into the Service and visiting your account profile page. <br/>
 You may also send us an email at pete@pobblebonklive.com to request access to, correct, or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.<br/>
-If you delete your User Contributions from the Service, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Service users. Proper access and use of information provided on the Service, including User Contributions, is governed by our terms of use [LINK TO TERMS OF USE].<br/><br/>
+		    If you delete your User Contributions from the Service, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Service users. Proper access and use of information provided on the Service, including User Contributions, is governed by our <a href="http://www.pobblebonklive.com/tos">Terms of Use</a>.<br/><br/>
 		    <i>Your State Privacy Rights</i><br/><br/>
 State consumer privacy laws may provide their residents with additional rights regarding our use of their personal information. To learn more about these rights please send an email to pete@pobblebonklive.com.<br/>
 		    <u>Data Security</u><br/>
@@ -129,7 +129,7 @@ Unfortunately, the transmission of information via the internet and mobile platf
 We may update our privacy policy from time to time. If we make material changes to how we treat our users' personal information, we will post the new privacy policy on this page with a notice that the privacy policy has been updated.  <br/>
 The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address you and for periodically visiting this privacy policy to check for any changes.<br/><br/>
 		    <u>Terms of Use</u><br/><br/>
-If you choose to use the Service, your visit and any dispute over privacy is subject to this Policy and our Terms of Use ([Link]), including limitations on damages, resolution of disputes, and application of the law of the state of Florida.<br/><br/>
+		    If you choose to use the Service, your visit and any dispute over privacy is subject to this Policy and our <a href="http://www.pobblebonklive.com/tos">Terms of Use</a>, including limitations on damages, resolution of disputes, and application of the law of the state of Florida.<br/><br/>
 
 		    <u>Contact Information</u>
 <br/><br/>
