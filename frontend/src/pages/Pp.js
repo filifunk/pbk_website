@@ -70,6 +70,7 @@ The usage information we collect helps us to improve our Service and to deliver 
     • Store information about your preferences, allowing us to customize our Service according to your individual interests.<br/>
     • Speed up your searches.<br/>
     • Recognize you when you use the Service.<br/>
+    • Upload your scores and information to a global leaderboard. 
 We use location information we collect to for check-in purposes only. <br/>
 We may also use your information to contact you about our own and third parties' goods and services that may be of interest to you. If you do not want us to use your information in this way, please email us at pete@pobblebonklive.com.<br/> 
 We may use the information we collect to display advertisements to our advertisers' target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.<br/><br/>
