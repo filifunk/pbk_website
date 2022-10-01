@@ -36,7 +36,7 @@ function Promotion22() {
 				&emsp;&emsp;1st through 10th Place - A Pobblebonk T-shirt<br /><br />
 
 				
-    6. CHOICE OF LAW, FORUM, TERMS, AND PRIVACY: Entrant agrees that all matters arising out of or relating to this promotion are governed by, and construed in accordance with, the laws of Florida, without giving effect to any of its conflict of laws provisions thereof. Entrant further agrees that any legal suit, action, or proceeding arising out of or relating to this promotion shall be brought exclusively in the applicable federal or state courts located in Miami-Dade, Florida. This promotion is subject to and governed by the Terms of Service and Privacy Policy.
+				6. CHOICE OF LAW, FORUM, TERMS, AND PRIVACY: Entrant agrees that all matters arising out of or relating to this promotion are governed by, and construed in accordance with, the laws of Florida, without giving effect to any of its conflict of laws provisions thereof. Entrant further agrees that any legal suit, action, or proceeding arising out of or relating to this promotion shall be brought exclusively in the applicable federal or state courts located in Miami-Dade, Florida. This promotion is subject to and governed by the <a href="http://www.pobblebonklive.com/Tos">Terms of Service</a> and <a href="http://www.pobblebonklive.com/Pp">Privacy Policy</a>.
 
 				<br/><br/><br/>
 
@@ -45,7 +45,7 @@ function Promotion22() {
 				<h3>FANS</h3><br/>
 				
 				1. HOW TO ENTER: Beginning on January 1st, 2022 through December 31, 2022 (the “Promotion Period”), log-in to the Pobblebonk app using your Fan account, and begin checking-in to open-mics. <br/><br/>
-				2. ELIGIBILITY: Open to residents of states and countries where the app is available and 18 years of age and older as of [DATE PROMOTION BEGINS]. Void in countries where the app is not available and where otherwise prohibited.<br/><br/>
+				2. ELIGIBILITY: Open to residents of states and countries where the app is available and 18 years of age and older as of January 1st, 2022. Void in countries where the app is not available and where otherwise prohibited.<br/><br/>
 				3. LIMITATION OF LIABILITY: By entering this promotion, entrants waive all right to, and hold Pobblebonk, LLC harmless from, any claim, liability, loss, damage (including punitive, incidental, and consequential damages), or expense (including attorneys' fees) arising out of or in connection with participation in this promotion or the acceptance, use, or misuse of any prize. <br/><br/>
 				4. WINNER SELECTION: Winners will be determined as follows: <br/>
         &emsp;(a) Each registered check-in during the Promotion Period by an individual Comedian will be counted as one point and tallied to result in the “Check-In Total”. <br/>
@@ -78,7 +78,7 @@ function Promotion22() {
 					&emsp;3rd Place - one pair of tickets to see a show performed by comedians who are registered on the app (max ticket price of $20/ticket) <br/>
 					&emsp;1st through 10th Place - A Pobblebonk T-shirt<br/><br/>
 
-				6. CHOICE OF LAW, FORUM, TERMS, AND PRIVACY: Entrant agrees that all matters arising out of or relating to this promotion are governed by, and construed in accordance with, the laws of Florida, without giving effect to any of its conflict of laws provisions thereof. Entrant further agrees that any legal suit, action, or proceeding arising out of or relating to this promotion shall be brought exclusively in the applicable federal or state courts located in Miami-Dade, Florida. This promotion is subject to and governed by the Terms of Service and Privacy Policy.<br/><br/> 
+				6. CHOICE OF LAW, FORUM, TERMS, AND PRIVACY: Entrant agrees that all matters arising out of or relating to this promotion are governed by, and construed in accordance with, the laws of Florida, without giving effect to any of its conflict of laws provisions thereof. Entrant further agrees that any legal suit, action, or proceeding arising out of or relating to this promotion shall be brought exclusively in the applicable federal or state courts located in Miami-Dade, Florida. This promotion is subject to and governed by the <a href="http://www.pobblebonklive.com/Tos">Terms of Service</a> and <a href="http://www.pobblebonklive.com/Pp">Privacy Policy</a>.<br/><br/> 
 
 
 				<h3>MIC SUBMISSION PRIZES</h3><br/>
@@ -86,7 +86,7 @@ function Promotion22() {
 				1.  Comedian who submits the most mics (compared to other comedians) by the end of the year will get an "Everything" account <br /><br />
 				2.  Comedians who submit the top 5 most checked-into mics will get a "Premium" account and a pack of stickers<br /><br />
 				3.  Fan who submits the most mics (compared to other fans) by the end of the year will get a pair of tickets to see a show performed by comedians who are registered on the app (max ticket price of $20/ticket) <br /><br />
-				4.  CHOICE OF LAW, FORUM, TERMS, AND PRIVACY: Entrant agrees that all matters arising out of or relating to this promotion are governed by, and construed in accordance with, the laws of Florida, without giving effect to any of its conflict of laws provisions thereof. Entrant further agrees that any legal suit, action, or proceeding arising out of or relating to this promotion shall be brought exclusively in the applicable federal or state courts located in Miami-Dade, Florida. This promotion is subject to and governed by the Terms of Service and Privacy Policy. <br /><br />
+				4.  CHOICE OF LAW, FORUM, TERMS, AND PRIVACY: Entrant agrees that all matters arising out of or relating to this promotion are governed by, and construed in accordance with, the laws of Florida, without giving effect to any of its conflict of laws provisions thereof. Entrant further agrees that any legal suit, action, or proceeding arising out of or relating to this promotion shall be brought exclusively in the applicable federal or state courts located in Miami-Dade, Florida. This promotion is subject to and governed by the <a href="http://www.pobblebonklive.com/Tos">Terms of Service</a> and <a href="http://www.pobblebonklive.com/Pp">Privacy Policy.</a> <br /><br />
 
 			</p>
 		</body>
