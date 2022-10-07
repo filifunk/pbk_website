@@ -73,8 +73,8 @@ function Promotion22() {
 				&emsp;&emsp;&emsp;(B) Their Unique Mic Bonus is (5% of 10 Check-In Total) * (4 unique mic check-in) = 2.0.<br />  
 				&emsp;&emsp;&emsp;(C) Their Promotion Score is 10 + 2.0 = 12.0.<br/><br/>
 				5. PRIZES:<br /> 
-					&emsp;1st Place – two pairs of tickets to see two different shows of the winners choosing performed by comedians who are registered on the app (max ticket price of $20/ticket). <br/>
-					&emsp;2nd Place – one pair of tickets to see one show of the winners choosing performed by comedians who are registered on the app (max ticket price of $20/ticket). <br/>
+					&emsp;1st Place – three pairs of tickets to see three different shows of the winners choosing performed by comedians who are registered on the app (max ticket price of $20/ticket). <br/>
+					&emsp;2nd Place – two pairs of tickets to see two different shows of the winners choosing performed by comedians who are registered on the app (max ticket price of $20/ticket). <br/>
 					&emsp;3rd Place - one pair of tickets to see one show of the winners choosing performed by comedians who are registered on the app (max ticket price of $20/ticket). <br/>
 					&emsp;1st through 10th Place - A Pobblebonk T-shirt.<br/><br/>
 
