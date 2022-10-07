@@ -32,7 +32,7 @@ function Promotion22() {
 				5. PRIZES: <br />
 				&emsp;&emsp;1st Place – (i) $400.00 cash prize, (ii) photoshoot with the founder of Pobblebonk, LLC (with a single framed print included), and (iii) will be named “Most Active Comedian in the World 2022” <br />
 				&emsp;&emsp;2nd Place – (i) $300.00 cash prize and a (ii) small customized trophy <br />
-				&emsp;&emsp;3rd Place – (i) $250.00 cash prize and a (ii) small customized trophy <br />
+				&emsp;&emsp;3rd Place – (i) $200.00 cash prize and a (ii) small customized trophy <br />
 				&emsp;&emsp;1st through 10th Place - A Pobblebonk T-shirt<br /><br />
 
 				
@@ -94,7 +94,7 @@ function Promotion22() {
 
 				&emsp;(a)Comedian who submits the most unique mics (compared to other comedians) by the end of the year will get an "Everything" account.  This only applies if the comedian doesn't have an "Everything" account already. <br /><br />
 				&emsp;(b)Comedians who submit the top 5 most checked-into mics will get a "Premium" account and a pack of stickers.  If a different comedian is the "Mic Contact" (as defined in the app) than the submitter, the comedian who was the Mic Contact when the mic achieved the most check-ins over the Promotion Period will also get the same prize. <br /><br />
-				&emsp;(c)Fan who submits the most unique mics (compared to other fans) by the end of the year will get a pair of tickets to see a show performed by comedians who are registered on the app (max ticket price of $20/ticket) 
+				&emsp;(c)Fan who submits the most unique mics (compared to other fans) by the end of the year will get a pair of tickets to see a show performed by comedians who are registered on the app (max ticket price of $20/ticket) <br/><br/>
 				&emsp;(d)All recipients of a Mic Submission prize will get a Pobblebonk T-shirt<br /><br />
 				
 				6.  CHOICE OF LAW, FORUM, TERMS, AND PRIVACY: Entrant agrees that all matters arising out of or relating to this promotion are governed by, and construed in accordance with, the laws of Florida, without giving effect to any of its conflict of laws provisions thereof. Entrant further agrees that any legal suit, action, or proceeding arising out of or relating to this promotion shall be brought exclusively in the applicable federal or state courts located in Miami-Dade, Florida. This promotion is subject to and governed by the <a href="http://www.pobblebonklive.com/Tos">Terms of Service</a> and <a href="http://www.pobblebonklive.com/Pp">Privacy Policy.</a> <br /><br />
