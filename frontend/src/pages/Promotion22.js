@@ -76,7 +76,7 @@ function Promotion22() {
 					&emsp;1st Place – two pairs of tickets to see two different shows of the winners choosing performed by comedians who are registered on the app (max ticket price of $20/ticket). <br/>
 					&emsp;2nd Place – one pair of tickets to see one show of the winners choosing performed by comedians who are registered on the app (max ticket price of $20/ticket). <br/>
 					&emsp;3rd Place - one pair of tickets to see one show of the winners choosing performed by comedians who are registered on the app (max ticket price of $20/ticket). <br/>
-					&emsp;1st through 10th Place - A Pobblebonk T-shirt<br/><br/>
+					&emsp;1st through 10th Place - A Pobblebonk T-shirt.<br/><br/>
 
 				6. CHOICE OF LAW, FORUM, TERMS, AND PRIVACY: Entrant agrees that all matters arising out of or relating to this promotion are governed by, and construed in accordance with, the laws of Florida, without giving effect to any of its conflict of laws provisions thereof. Entrant further agrees that any legal suit, action, or proceeding arising out of or relating to this promotion shall be brought exclusively in the applicable federal or state courts located in Miami-Dade, Florida. This promotion is subject to and governed by the <a href="http://www.pobblebonklive.com/Tos">Terms of Service</a> and <a href="http://www.pobblebonklive.com/Pp">Privacy Policy</a>.<br/><br/> 
 
