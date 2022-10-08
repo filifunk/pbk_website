@@ -84,7 +84,7 @@ function Promotion22() {
 				<h3>MIC SUBMISSION</h3><br/>
 
 
-				1. HOW TO ENTER: Beginning on January 1st, 2022 through December 31, 2022 (the “Promotion Period”), log-in to the Pobblebonk app using your Fan or Comedian account, and begin checking-in to open-mics. <br/><br/>
+				1. HOW TO ENTER: Beginning on January 1st, 2022 through December 31, 2022 (the “Promotion Period”), log-in to the Pobblebonk app using your Fan or Comedian account, and begin submitting open-mics. Open mics will only be considered towards your total end of year count if they are accepted.<br/><br/>
 				2. ELIGIBILITY: Open to residents of states and countries where the app is available and 18 years of age and older as of January 1st, 2022. Void in countries where the app is not available and where otherwise prohibited.<br/><br/>
 				3. LIMITATION OF LIABILITY: By entering this promotion, entrants waive all right to, and hold Pobblebonk, LLC harmless from, any claim, liability, loss, damage (including punitive, incidental, and consequential damages), or expense (including attorneys' fees) arising out of or in connection with participation in this promotion or the acceptance, use, or misuse of any prize. <br/><br/>
 				4. WINNER SELECTION: Each unique mic submitted and accepted will be counted as one mic submission and all mics submitted will be tallied up to determine the submitter's mic submission total. <br/><br/>
