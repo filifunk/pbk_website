@@ -132,6 +132,12 @@ The date the privacy policy was last revised is identified at the top of the pag
 		    <u>Terms of Use</u><br/><br/>
 		    If you choose to use the Service, your visit and any dispute over privacy is subject to this Policy and our <a href="http://www.pobblebonklive.com/tos">Terms of Use</a>, including limitations on damages, resolution of disputes, and application of the law of the state of Florida.<br/><br/>
 
+
+		    <u>Representative for data subjects in the EU and UK</u> <br/><br/>
+
+We value your privacy and your rights as a data subject and have therefore appointed Prighter Group with its local partners as our privacy representative and your point of contact.
+		    Prighter gives you an easy way to exercise your privacy-related rights (e.g. requests to access or erase personal data). If you want to contact us via our representative, Prighter or make use of your data subject rights, please visit the following website: https://prighter.com/q/17669831030 <br/><br/>
+
 		    <u>Contact Information</u>
 <br/><br/>
 To ask questions or comment about this privacy policy and our privacy practices, contact us at: 
