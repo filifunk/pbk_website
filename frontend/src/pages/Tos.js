@@ -13,7 +13,7 @@ function Tos() {
 
 			<h1> Pobblebonk App Terms of Use </h1>
 			<br/>
-			Last Modified: 9/25/22<br/>
+			Last Modified: 12/30/22<br/>
 
 			<b><u>Acceptance of the Terms of Use</u></b>
 
@@ -77,6 +77,7 @@ You represent and warrant that: <br/>
 You understand and acknowledge that you are responsible for any User Contributions you submit or contribute, and you, not the Company, have full responsibility for such content, including its legality, reliability, accuracy, and appropriateness.<br/>
 We are not responsible or liable to any third party for the content or accuracy of any User Contributions posted by you or any other user of the Service. <br/><br/>
 
+			If you elect to post payment account information on your personal page via the Service (i.e., Cash App, Venmo, etc.), you do so at your own risk. You accept and acknowledge responsibility for any loss or damage that may result from such, and release us from any related claim. 
 			<b><u>Point System</u></b> <br/><br/>
 We may implement and maintain a points system, but are under no obligation to do so. The amount of points given per check-in is variable.  There is a base amount of points given per check-in.  There is also a multiplier that is applied to the base that determines the points given per check-in. Top point holders may be eligible for free tickets, merch, and other giveaways.<br/><br/>
 
