@@ -9,6 +9,7 @@ function FAQ() {
 
 		  <div>
 			  <h1>Pobblebonk FAQ</h1>
+			  <h3><a href="https://linktr.ee/pobblebonk">https://linktr.ee/pobblebonk</a></h3>
 
 		  <details>
 		      <summary>What is Pobblebonk?</summary>
