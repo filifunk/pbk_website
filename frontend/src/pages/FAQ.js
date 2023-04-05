@@ -32,7 +32,7 @@ When comedians interact with the app, they are getting their name out there to t
 		      <summary>How do End Of Year Awards work?</summary>
 			  The End Of Year Awards are won through competition.  We want comedians to use the competition as a credit generating machine to help further their careers. <br /><br /> 
 
-			  World's Top Comic, Top Comic (local), Hardest Working Comic, World's Top Mic/Host, Top Mic/Host (local), and Top Stand Up Comedy Scene.  The (currently) unofficial rules are <a href="https://docs.google.com/document/d/1oBSySD4xu3tu0gkZugnUw5hCP_2LxrSbNPkocMPDuis/edit?usp=sharing">here</a>, but basically checking into mics/showcases, submitting mics/showcases, and being funny and favorited by audience members will all help comedians and fans win prizes.  Comics can win cash prizes and credits while Fans can win tickets!  World's Top Comic will win $500 and Top Fan will win a pair of tickets to a show of their choosing!  See official rules for scoring rubric and prizes.  
+			  These are the awards you can win:  World's Top Comic, Top Comic (local), Hardest Working Comic, World's Top Mic/Host, Top Mic/Host (local), and Top Stand Up Comedy Scene.  The (currently) unofficial rules are <a href="https://docs.google.com/document/d/1oBSySD4xu3tu0gkZugnUw5hCP_2LxrSbNPkocMPDuis/edit?usp=sharing">here</a>, but basically checking into mics/showcases, submitting mics/showcases, and being funny and favorited by audience members will all help comedians and fans win prizes.  Comics can win cash prizes and credits while Fans can win tickets!  World's Top Comic will win $500 and Top Fan will win a pair of tickets to a show of their choosing!  See official rules for scoring rubric and prizes.  
 		  </details>	  
 		    <br />
 		  <details>
