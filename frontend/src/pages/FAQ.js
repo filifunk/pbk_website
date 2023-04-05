@@ -127,12 +127,12 @@ For comedians, ideally there are people like the woman above in the audience, wh
 
 		  		  		   <details>
 		      <summary>What's coming in the future?</summary>
-			A lot depends on how quickly things progress, but a lot of cool things we can do like badges, improved recommendation algorithms, and definitely merch! 
+			A lot depends on how quickly things progress, but a lot of cool things we can do like booking options, badges, improved recommendation algorithms, and definitely merch! 
 		  </details>
 
 			  <br />
 
-			  <p>Thank you everyone for following along and reading this, please provide feedback if you have it.  You can send me a message or maybe run into me at an open mic! - Pete</p>
+			  <p>Thank you everyone for following along and reading this, please provide feedback if you have it.  You can send me a message by dm or e-mail (pete@pobblebonklive.com) or maybe run into me at an open mic! - Pete </p>
 
 
 
