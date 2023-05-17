@@ -4,6 +4,7 @@ function Promotion23() {
 
 	return(
 		<div>
+			<body>
 
 	<pre>
 
@@ -146,6 +147,7 @@ Top Open Mic/Host
 
 
 	</pre>
+			</body>
 		</div>
 
 );
