@@ -10,7 +10,7 @@ import Legal from './pages/Legal'
 import Tos from './pages/Tos'
 import Pp from './pages/Pp'
 import Promotion22 from './pages/Promotion22'
-import Promotion23 from './pages/Promotion22'
+import Promotion23 from './pages/Promotion23'
 import HOF from './pages/HOF'
 import FAQ from './pages/FAQ'
 
