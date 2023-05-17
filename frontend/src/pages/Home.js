@@ -9,6 +9,8 @@ import { useNavigate } from 'react-router';
 
 function Home() {
 
+	console.log('head oohwow')
+
     let navigate = useNavigate();
 
     function experiment() {
