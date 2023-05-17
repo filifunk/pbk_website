@@ -10,6 +10,7 @@ import Legal from './pages/Legal'
 import Tos from './pages/Tos'
 import Pp from './pages/Pp'
 import Promotion22 from './pages/Promotion22'
+import Promotion23 from './pages/Promotion22'
 import HOF from './pages/HOF'
 import FAQ from './pages/FAQ'
 
@@ -30,6 +31,7 @@ function App() {
 		  <Route exact path = "/Promotion22" element={<Promotion22/>} />
 		  <Route exact path = "/HOF" element={<HOF/>} />
 		  <Route exact path = "/FAQ" element={<FAQ/>} />
+		  <Route exact path = "/Promotion23" element={<Promotion23/>} />
 		  
 	</Routes>
     </div>
