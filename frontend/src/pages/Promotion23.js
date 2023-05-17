@@ -3,6 +3,7 @@ import '../App.css';
 function Promotion23() {
 
 	return(
+		<div>
 
 	<pre>
 
@@ -145,7 +146,7 @@ Top Open Mic/Host
 
 
 	</pre>
-
+		</div>
 
 );
 
