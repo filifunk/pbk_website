@@ -2,6 +2,8 @@ import '../App.css';
 
 function Promotion23() {
 
+	console.log('sup girl')
+
 	return(
 		<div>
 			<body>
