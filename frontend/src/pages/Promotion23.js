@@ -1,19 +1,26 @@
-
+import '../App2.css';
 
 function Promotion23() {
 
-	console.log('sup girl')
+      
 
 	return(
-		<div>
+		
+		<html>	
+
+		<body>	
+
+
 			
 
-	<pre>
+				
 
+			<b><div class="centertext">2023 Pobblebonk Promotion Rules</div></b><br/>
+			<div class="centertext">All rules are subject to change (but probably won't change much)</div><br/>
+			<div class="centertext">Last updated: 5/29/23</div>
+			<pre>
 
-
-2023 Pobblebonk UNOFFICIAL Promotion Rules
-
+				{`
 COMEDIANS
 Top Comic
 1. HOW TO ENTER: Beginning on January 1st, 2023 through December 15, 2023 (the “Promotion Period”), log-in to the Pobblebonk app using your Comedian account, and begin checking-in to events.
@@ -46,6 +53,7 @@ Top Comic
    2nd Place – (i) $400.00 cash prize
    3rd Place – (i) $300.00 cash prize
    1st through 10th Place - A Pobblebonk T-shirt
+All prizes are subject to be increased at the discretion of the founder of Pobblebonk, LLC.
 
  6. CHOICE OF LAW, FORUM, TERMS, AND PRIVACY: Entrant agrees that all matters arising out of or relating to this promotion are governed by, and construed in accordance with, the laws of Florida, without giving effect to any of its conflict of laws provisions thereof. Entrant further agrees that any legal suit, action, or proceeding arising out of or relating to this promotion shall be brought exclusively in the applicable federal or state courts located in Miami-Dade, Florida. This promotion is subject to and governed by the Terms of Service and Privacy Policy.
 
@@ -97,6 +105,7 @@ FANS
 3rd Place - one pair of tickets to see one show of the winners choosing that has at least one performer registered on the app (max ticket price of $20 face value/ticket)
 
   1st through 10th Place - A Pobblebonk T-shirt
+All prizes are subject to be increased at the discretion of the founder of Pobblebonk, LLC.
 
  6. CHOICE OF LAW, FORUM, TERMS, AND PRIVACY: Entrant agrees that all matters arising out of or relating to this promotion are governed by, and construed in accordance with, the laws of Florida, without giving effect to any of its conflict of laws provisions thereof. Entrant further agrees that any legal suit, action, or proceeding arising out of or relating to this promotion shall be brought exclusively in the applicable federal or state courts located in Miami-Dade, Florida. This promotion is subject to and governed by the Terms of Service and Privacy Policy.
 
@@ -122,35 +131,32 @@ Top Open Mic/Host
    3rd Place –  $100.00 cash prize
    1st through 10th Place - A Pobblebonk T-shirt
 
+All prizes are subject to be increased at the discretion of the founder of Pobblebonk, LLC.
+
  6. CHOICE OF LAW, FORUM, TERMS, AND PRIVACY: Entrant agrees that all matters arising out of or relating to this promotion are governed by, and construed in accordance with, the laws of Florida, without giving effect to any of its conflict of laws provisions thereof. Entrant further agrees that any legal suit, action, or proceeding arising out of or relating to this promotion shall be brought exclusively in the applicable federal or state courts located in Miami-Dade, Florida. This promotion is subject to and governed by the Terms of Service and Privacy Policy.
 
+				
+`}</pre>
+
+
+
+
+
+		</body>
+
+
+
+
+		</html>
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	</pre>
+	
 			
-		</div>
+		
 
 );
 
