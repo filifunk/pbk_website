@@ -141,7 +141,7 @@ All prizes are subject to be increased at the discretion of the founder of Pobbl
 			<div class="centertext">FANS</div><br/><br/>
 
 
-			<div class="centertext">Top Fan</div>
+			<u><div class="centertext">Top Fan</div></u>
 
 
 			<pre>
