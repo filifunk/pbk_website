@@ -17,19 +17,23 @@ function Promotion23() {
 
 			<b><div class="centertext">2023 Pobblebonk Promotion Rules</div></b><br/>
 			<div class="centertext">All rules are subject to change (but probably won't change much)</div><br/>
-			<div class="centertext">Last updated: 5/29/23</div>
+			<div class="centertext">Last updated: 5/29/23</div><br/><br/><br/>
+			
+
+			<div class="centertext">COMEDIANS</div><br/><br/>
+			<u><div class="centertext">Top Comic in the World</div></u><br/>
+			<u><div class="centertext">Top Comic (Local)</div></u> <div class="centertext">(These awards are local rankings that may be sponsored with prizes)</div><br/>
+
 			<pre>
 
 				{`
-COMEDIANS
-Top Comic
 1. HOW TO ENTER: Beginning on January 1st, 2023 through December 15, 2023 (the “Promotion Period”), log-in to the Pobblebonk app using your Comedian account, and begin checking-in to events.
 
- 2. ELIGIBILITY: Open to residents of states and countries where the app is available and 18 years of age and older as of January 1st, 2023. Void in countries where the app is not available and where otherwise prohibited. Comedian must participate in at least 4 open mics and be validated at 1 of those.  Comedian must have less than 1.25M instagram followers to be eligible.
+ 2. ELIGIBILITY: Open to residents of states and countries where the app is available and 18 years of age and older as of January 1st, 2023. Void in countries where the app is not available and where otherwise prohibited. Comedian must participate in at least 4 open mics and be validated at 1 of those.  Comedian must have less than 1.25M followers on any social media platforms during the Promotion Period to be eligible.
 
  3. LIMITATION OF LIABILITY: By entering this promotion, entrants waive all right to, and hold Pobblebonk, LLC harmless from, any claim, liability, loss, damage (including punitive, incidental, and consequential damages), or expense (including attorneys' fees) arising out of or in connection with participation in this promotion or the acceptance, use, or misuse of any prize.
 
- 4. WINNER SELECTION: Winners will be determined as follows:
+ 4. WINNER SELECTION: Winners for both World’s Top Comic and Top Comic - local will be determined as follows:
 
 (a) Each registered check-in during the Promotion Period by an individual Comedian will be counted as one Point.
 (b) Each registered check-in during the Promotion Period by an individual Comedian as a Host will be counted as Point.
@@ -43,24 +47,35 @@ Top Comic
 (j) Each validated dead Open Mic an individual comedian reports will be counted as one Point.
 (k) Each account creation that uses an individual Comedian’s referral code will count as one Point.
 (l) Filling in your Top Five Comedians slots will be counted as one Point.
-(m) Each time a show is booked through the app will be counted as one Point.
-(i) Unique Fan bonus are points that will be added as follows: (2.5% of Total points received in (a)-(h))*amount of unique fans who have validated you.  By way of example:
+(m) Each time a booking opportunity is created in the app it will be counted as one Point.
+(n) Unique Fan bonus are points that will be added as follows: (2.5% of Total points received in (a)-(n))*amount of unique fans who have validated you.  By way of example:
 	i.  Comedian A has accumulated 250 points throughout the year and was validated by 10 fans.  Their Promotion Score will be 250 + (250*2.5%*10) = 312.5
 	Ii.  Comedian B has accumulated 200 points throughout the year and was validated by 20 fans.  Their Promotion Score will be 200 + (200*2.5%*20) = 300
+(o) Points will be tallied up on a global level for Top Comic in the World award and locally by city for Top Comic - local.
 
  5. PRIZES:
-   1st Place – (i) $500.00 cash prize, (ii) photoshoot with the founder of Pobblebonk, LLC and (iii) will be named “Top Comic 2023”
+
+Top Comic in the World:
+
+   1st Place – (i) $500.00 cash prize, (ii) photoshoot with the founder of Pobblebonk, LLC and (iii) will be named “Top Comic In The World 2023”
    2nd Place – (i) $400.00 cash prize
    3rd Place – (i) $300.00 cash prize
    1st through 10th Place - A Pobblebonk T-shirt
+Top Comic (local):
+The prizes for this will be announced as they are created.
 All prizes are subject to be increased at the discretion of the founder of Pobblebonk, LLC.
 
  6. CHOICE OF LAW, FORUM, TERMS, AND PRIVACY: Entrant agrees that all matters arising out of or relating to this promotion are governed by, and construed in accordance with, the laws of Florida, without giving effect to any of its conflict of laws provisions thereof. Entrant further agrees that any legal suit, action, or proceeding arising out of or relating to this promotion shall be brought exclusively in the applicable federal or state courts located in Miami-Dade, Florida. This promotion is subject to and governed by the Terms of Service and Privacy Policy.
+	`}
+		</pre>
 
 
+			<br/>
+			<br/>
+			<u><div class="centertext">Hardest Working Comic</div></u>
 
-Hardest Working Comic
-
+			<pre>
+				{`
 
 1. HOW TO ENTER: Beginning on January 1st, 2023 through December 15, 2023 (the “Promotion Period”), log-in to the Pobblebonk app using your Comedian account, and begin checking-in to open-mics.
 
@@ -80,8 +95,56 @@ Hardest Working Comic
 
  6. CHOICE OF LAW, FORUM, TERMS, AND PRIVACY: Entrant agrees that all matters arising out of or relating to this promotion are governed by, and construed in accordance with, the laws of Florida, without giving effect to any of its conflict of laws provisions thereof. Entrant further agrees that any legal suit, action, or proceeding arising out of or relating to this promotion shall be brought exclusively in the applicable federal or state courts located in Miami-Dade, Florida. This promotion is subject to and governed by the Terms of Service and Privacy Policy.
 
+ `}
+			</pre>
 
-FANS
+			<br/>
+			<br/>
+
+			<u><div class="centertext">Top Open Mic & Top Host</div></u>
+
+			<pre>
+
+				{`
+
+1. HOW TO ENTER: Beginning on January 1st, 2023 through December 15, 2023 (the “Promotion Period”), log-in to the Pobblebonk app using your Comedian account, and begin checking-in to open-mics.
+
+ 2. ELIGIBILITY: Open to residents of states and countries where the app is available and 18 years of age and older as of January 1st, 2023. Void in countries where the app is not available and where otherwise prohibited.
+
+ 3. LIMITATION OF LIABILITY: By entering this promotion, entrants waive all right to, and hold Pobblebonk, LLC harmless from, any claim, liability, loss, damage (including punitive, incidental, and consequential damages), or expense (including attorneys' fees) arising out of or in connection with participation in this promotion or the acceptance, use, or misuse of any prize.
+
+ 4. WINNER SELECTION: Winners will be determined as follows:
+
+(a) Each registered check-in during the Promotion Period at the open mic will count as one point and.  
+(b) Unique check-in bonus are points that will be added as follows: 5% of Total points received in (a)*amount of unique check ins. A unique check-in is a check-in by a Comedian or Fan that has not previously checked in during the Promotion Period.  By way of example:
+	i. Open Mic A had 50 check-ins.  10 of those were unique.  Their Promotion Score will be 50+(50*5%*10) = 75
+	Ii.  Open Mic B had 30 check-ins.  20 of those were unique.  Their Promotion Score will be 30+(30*5%*20) = 60
+
+5. PRIZES:
+   1st Place – $300.00 cash prize
+   2nd Place –  $200.00 cash prize
+   3rd Place –  $100.00 cash prize
+   1st through 10th Place - A Pobblebonk T-shirt
+Prizes will be given to the registered host of the mic when the mic received the most points.  If there is no registered host then the prize will go to the contact person associated with the mic.
+
+All prizes are subject to be increased at the discretion of the founder of Pobblebonk, LLC.
+
+ 6. CHOICE OF LAW, FORUM, TERMS, AND PRIVACY: Entrant agrees that all matters arising out of or relating to this promotion are governed by, and construed in accordance with, the laws of Florida, without giving effect to any of its conflict of laws provisions thereof. Entrant further agrees that any legal suit, action, or proceeding arising out of or relating to this promotion shall be brought exclusively in the applicable federal or state courts located in Miami-Dade, Florida. This promotion is subject to and governed by the Terms of Service and Privacy Policy.
+
+
+`}
+			</pre>
+
+			<br/>
+			<br/>
+			<br/>
+			<div class="centertext">FANS</div>
+
+
+			<pre>
+
+				{`
+
 1. HOW TO ENTER: Beginning on January 1st, 2022 through December 15, 2022 (the “Promotion Period”), log-in to the Pobblebonk app using your Fan account, and begin checking-in to open-mics and showcases.
 
  2. ELIGIBILITY: Open to residents of states and countries where the app is available and 18 years of age and older as of January 1st, 2022. Void in countries where the app is not available and where otherwise prohibited.
@@ -103,44 +166,18 @@ FANS
  	1st Place – a pair of tickets to see any live stand up comedy show of the winners choosing (max ticket price of $150 face value /ticket)
 2nd Place – one pair of tickets to see one show of the winners choosing (max ticket price of $75 face value /ticket)
 3rd Place - one pair of tickets to see one show of the winners choosing that has at least one performer registered on the app (max ticket price of $20 face value/ticket)
-
   1st through 10th Place - A Pobblebonk T-shirt
-All prizes are subject to be increased at the discretion of the founder of Pobblebonk, LLC.
-
- 6. CHOICE OF LAW, FORUM, TERMS, AND PRIVACY: Entrant agrees that all matters arising out of or relating to this promotion are governed by, and construed in accordance with, the laws of Florida, without giving effect to any of its conflict of laws provisions thereof. Entrant further agrees that any legal suit, action, or proceeding arising out of or relating to this promotion shall be brought exclusively in the applicable federal or state courts located in Miami-Dade, Florida. This promotion is subject to and governed by the Terms of Service and Privacy Policy.
-
-Top Open Mic/Host
-
-
-1. HOW TO ENTER: Beginning on January 1st, 2023 through December 15, 2023 (the “Promotion Period”), log-in to the Pobblebonk app using your Comedian account, and begin checking-in to open-mics.
-
- 2. ELIGIBILITY: Open to residents of states and countries where the app is available and 18 years of age and older as of January 1st, 2023. Void in countries where the app is not available and where otherwise prohibited.
-
- 3. LIMITATION OF LIABILITY: By entering this promotion, entrants waive all right to, and hold Pobblebonk, LLC harmless from, any claim, liability, loss, damage (including punitive, incidental, and consequential damages), or expense (including attorneys' fees) arising out of or in connection with participation in this promotion or the acceptance, use, or misuse of any prize.
-
- 4. WINNER SELECTION: Winners will be determined as follows:
-
-(a) Each registered check-in during the Promotion Period at the open mic will count as one point and.  
-(b) Unique check-in bonus are points that will be added as follows: 5% of Total points received in (a)*amount of unique check ins. A unique check-in is a check-in by a Comedian or Fan that has not previously checked in during the Promotion Period.  By way of example:
-	i. Open Mic A had 50 check-ins.  10 of those were unique.  Their Promotion Score will be 50+(50*5%*10) = 75
-	Ii.  Open Mic B had 30 check-ins.  20 of those were unique.  Their Promotion Score will be 30+(30*5%*20) = 60
-
-5. PRIZES:
-   1st Place – $300 cash prize
-   2nd Place –  $200.00 cash prize
-   3rd Place –  $100.00 cash prize
-   1st through 10th Place - A Pobblebonk T-shirt
 
 All prizes are subject to be increased at the discretion of the founder of Pobblebonk, LLC.
 
  6. CHOICE OF LAW, FORUM, TERMS, AND PRIVACY: Entrant agrees that all matters arising out of or relating to this promotion are governed by, and construed in accordance with, the laws of Florida, without giving effect to any of its conflict of laws provisions thereof. Entrant further agrees that any legal suit, action, or proceeding arising out of or relating to this promotion shall be brought exclusively in the applicable federal or state courts located in Miami-Dade, Florida. This promotion is subject to and governed by the Terms of Service and Privacy Policy.
 
-				
-`}</pre>
 
 
 
 
+`}
+			</pre>
 
 		</body>
 
