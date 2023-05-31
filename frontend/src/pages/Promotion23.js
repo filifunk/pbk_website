@@ -17,7 +17,7 @@ function Promotion23() {
 
 			<b><div class="centertext">2023 Pobblebonk Promotion Rules</div></b><br/>
 			<div class="centertext">All rules are subject to change (but probably won't change much)</div><br/>
-			<div class="centertext">Last updated: 5/30/23</div><br/><br/><br/>
+			<div class="centertext">Last updated: 5/31/23</div><br/><br/><br/>
 			
 
 			<div class="centertext">COMEDIANS</div><br/><br/>
@@ -38,20 +38,18 @@ function Promotion23() {
 (a) Each registered check-in during the Promotion Period by an individual Comedian will be counted as one Point.
 (b) Each registered check-in during the Promotion Period by an individual Comedian as a Host will be counted as Point.
 (c) Each registered check-in during the Promotion Period by an individual Comedian that is validated by a comedian or host of the event that is checked into will count as one Point.
-(d) Each registered check-in during the Promotion Period by an individual Comedian that is verified by a Fan who hasn’t verified the individual comedian during the Promotion Period, will be counted as three Points.
-(e) Each registered check-in during the Promotion Period by an individual Comedian that is verified by a Fan who has verified the individual comedian before in the Promotion Period, will be counted as two Points.  
-(f) Each registered check-in during the Promotion Period by an individual Comedian that results in a “favorite” from a Fan for “Top Comic” who had never done so during the Promotion Period, will count as three Points.
-(g) Each registered check-in during the Promotion Period by an individual Comedian that results in a “favorite” from a Fan for “Top Comic” who has done so before in the Promotion Period, will count as two Points.
-(h) Each registered check-in during the Promotion Period by an individual Comedian into a Showcase will count as one point (This is in addition to the point earned in (a)).
-(i) Each validated Open Mic that is submitted will be counted as one Point.
-(j) Each validated dead Open Mic an individual comedian reports will be counted as one Point.
-(k) Each account creation that uses an individual Comedian’s referral code will count as one Point.
-(l) Filling in your Top Five Comedians slots will be counted as one Point.
-(m) Each time a booking opportunity is created in the app it will be counted as one Point.
-(n) Unique Fan bonus are points that will be added as follows: (2.5% of Total points received in (a)-(n))*amount of unique fans who have validated you.  By way of example:
+(d) Each registered check-in during the Promotion Period by an individual Comedian that is verified by a Fan will be counted as two Points.  
+(e) Each registered check-in during the Promotion Period by an individual Comedian that results in a “favorite” from a Fan for “Top Comic” will count as two Points.
+(f) Each registered check-in during the Promotion Period by an individual Comedian into a Showcase will count as one point (This is in addition to the point earned in (a)).
+(g) Each validated Open Mic that is submitted will be counted as one Point.
+(h) Each validated dead Open Mic an individual comedian reports will be counted as one Point.
+(i) Each account creation that uses an individual Comedian’s referral code will count as one Point.
+(j) Filling in your Top Five Comedians slots will be counted as one Point.
+(k) Each time a booking opportunity is created in the app it will be counted as one Point.
+(l) Unique Fan bonus are points that will be added as follows: (2.5% of Total points received in (a)-(k))*amount of unique fans who have validated you.  By way of example:
 	i.  Comedian A has accumulated 250 points throughout the year and was validated by 10 fans.  Their Promotion Score will be 250 + (250*2.5%*10) = 312.5
 	Ii.  Comedian B has accumulated 200 points throughout the year and was validated by 20 fans.  Their Promotion Score will be 200 + (200*2.5%*20) = 300
-(o) Points will be tallied up on a global level for Top Comic in the World award and locally by city for Top Comic - local.
+(m) Points will be tallied up on a global level for Top Comic in the World award and locally by city for Top Comic - local.
 
  5. PRIZES:
 
