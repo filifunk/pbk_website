@@ -42,14 +42,15 @@ function Promotion23() {
 (e) Each registered check-in during the Promotion Period by an individual Comedian that results in a “favorite” from a Fan for “Top Comic” will count as two Points.
 (f) Each registered check-in during the Promotion Period by an individual Comedian into a Showcase will count as one point (This is in addition to the point earned in (a)).
 (g) Each validated Open Mic that is submitted will be counted as one Point.
-(h) Each validated dead Open Mic an individual comedian reports will be counted as one Point.
-(i) Each account creation that uses an individual Comedian’s referral code will count as one Point.
-(j) Filling in your Top Five Comedians slots will be counted as one Point.
-(k) Each time a booking opportunity is created in the app it will be counted as one Point.
-(l) Unique Fan bonus are points that will be added as follows: (2.5% of Total points received in (a)-(k))*amount of unique fans who have validated you.  By way of example:
+(h) Each validated dead Open Mic an individual comedian reports as being dead will be counted as one Point.
+(i) Each validated Showcase that is submitted will be counted as two Points.
+(j) Each account creation that uses an individual Comedian’s referral code will count as one Point.
+(k) Filling in your Top Five Comedians slots will be counted as one Point.
+(l) Each time a booking opportunity is created in the app it will be counted as one Point.
+(m) Unique Fan bonus are points that will be added as follows: (2.5% of Total points received in (a)-(l))*amount of unique fans who have validated you.  By way of example:
 	i.  Comedian A has accumulated 250 points throughout the year and was validated by 10 fans.  Their Promotion Score will be 250 + (250*3%*10) = 325
 	ii.  Comedian B has accumulated 200 points throughout the year and was validated by 20 fans.  Their Promotion Score will be 200 + (200*3%*20) = 320
-(m) Points will be tallied up on a global level for Top Comic in the World award and locally by city for Top Comic - local.
+(n) Points will be tallied up on a global level for Top Comic in the World award and locally by city for Top Comic - local.
 
  5. PRIZES:
 
