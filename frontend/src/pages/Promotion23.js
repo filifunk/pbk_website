@@ -47,8 +47,8 @@ function Promotion23() {
 (j) Filling in your Top Five Comedians slots will be counted as one Point.
 (k) Each time a booking opportunity is created in the app it will be counted as one Point.
 (l) Unique Fan bonus are points that will be added as follows: (2.5% of Total points received in (a)-(k))*amount of unique fans who have validated you.  By way of example:
-	i.  Comedian A has accumulated 250 points throughout the year and was validated by 10 fans.  Their Promotion Score will be 250 + (250*2.5%*10) = 312.5
-	Ii.  Comedian B has accumulated 200 points throughout the year and was validated by 20 fans.  Their Promotion Score will be 200 + (200*2.5%*20) = 300
+	i.  Comedian A has accumulated 250 points throughout the year and was validated by 10 fans.  Their Promotion Score will be 250 + (250*3%*10) = 325
+	ii.  Comedian B has accumulated 200 points throughout the year and was validated by 20 fans.  Their Promotion Score will be 200 + (200*3%*20) = 320
 (m) Points will be tallied up on a global level for Top Comic in the World award and locally by city for Top Comic - local.
 
  5. PRIZES:
