@@ -83,7 +83,7 @@ Currently, there are no investors so we don’t have to do anything to please th
 
 It is possible that costs may get out of control, in which case I may reach out to a VC, but I believe that won’t happen this year.  I already have existing relationships with people in the finance industry and will be keeping those lines of communication going in case they are needed.
 
-So comedians and fans, we are in alignment here and I need you to use the app and keep giving me great feedback because that will bring sponsorship, comedian exposure, and ultimately make it fun for fans.  How big are the marketing budgets of big time comedy movies?  How big are the marketing budgets of alcohol companies?  The current prize pot we have is less than a drop in the bucket for them.  If we get one of those sponsorship deals, how much of that flows down to the comedian when I have no employees or investors to pay off?  The math adds up to a lot of money given away in a way in a modality that is completely new to the industry. 
+So comedians and fans, we are in alignment here and I need you to use the app and keep giving me great feedback because that will bring sponsorship, comedian exposure, and ultimately make it fun for fans.  How big are the marketing budgets of big time comedy movies?  How big are the marketing budgets of alcohol companies?  The current prize pot we have is less than a drop in the bucket for them.  If we get one of those sponsorship deals, how much of that flows down to the comedian when I have no employees or investors to pay off?  The math adds up to a lot of money given away in a way that is completely new to the industry. 
 
 
 A lot more to come...
