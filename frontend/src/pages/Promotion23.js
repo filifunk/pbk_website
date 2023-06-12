@@ -17,7 +17,7 @@ function Promotion23() {
 
 			<b><div class="centertext">2023 Pobblebonk Promotion Rules</div></b><br/>
 			<div class="centertext">All rules are subject to change (but probably won't change much)</div><br/>
-			<div class="centertext">Last updated: 6/3/23</div><br/><br/><br/>
+			<div class="centertext">Last updated: 6/11/23</div><br/><br/><br/>
 			
 
 			<div class="centertext">COMEDIANS</div><br/><br/>
