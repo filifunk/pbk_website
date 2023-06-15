@@ -17,7 +17,7 @@ function Promotion23() {
 
 			<b><div class="centertext">2023 Pobblebonk Promotion Rules</div></b><br/>
 			<div class="centertext">All rules are subject to change (but probably won't change much)</div><br/>
-			<div class="centertext">Last updated: 6/11/23</div><br/><br/><br/>
+			<div class="centertext">Last updated: 6/15/23</div><br/><br/><br/>
 			
 
 			<div class="centertext">COMEDIANS</div><br/><br/>
@@ -43,7 +43,7 @@ function Promotion23() {
 (f) Each registered check-in during the Promotion Period by an individual Comedian into a Showcase will count as one point (This is in addition to the point earned in (a)).
 (g) Each validated Open Mic that is submitted will be counted as one Point.
 (h) Each validated dead Open Mic an individual comedian reports as being dead will be counted as one Point.
-(i) Each validated Showcase that is submitted will be counted as one Point and may not exceed 25% of total points before Unique Fan bonus is applied.
+(i) Each validated Showcase that is submitted will be counted as two Points and total Showcase Points may not exceed 25% of Total Points before Unique Fan bonus is applied.
 (j) Each account creation that uses an individual Comedian’s referral code will count as one Point.
 (k) Filling in your Top Five Comedians slots will be counted as one Point.
 (l) Each time a booking opportunity is created in the app it will be counted as one Point.
