@@ -38,6 +38,9 @@ Thanks for following,
 
 Pete
 
+
+Next topic: dive into the scoring system!
+
 `}
 
 
