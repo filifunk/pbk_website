@@ -14,6 +14,7 @@ import Promotion23 from './pages/Promotion23'
 import HOF from './pages/HOF'
 import FAQ from './pages/FAQ'
 import Boardroom from './pages/Boardroom'
+import Boardroom2 from './pages/Boardroom2'
 import Name from './pages/Name'
 
 function App() {
@@ -35,6 +36,7 @@ function App() {
 		  <Route exact path = "/FAQ" element={<FAQ/>} />
 		  <Route exact path = "/Promotion23" element={<Promotion23/>} />
 		  <Route exact path = "/Boardroom" element={<Boardroom/>} />
+		  <Route exact path = "/Boardroom2" element={<Boardroom2/>} />
 		  <Route exact path = "/Name" element= {<Name/>} />
 
 		  
